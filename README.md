@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iyliahaziq11
 - 👀 I’m interested in learning new skills 
 - 🌱 I’m currently learning python, and everything under the sky (tech, health, science, hunting, sports)
-- 💞️ I’m looking to collaborate on my future colleague :)
+- 💞️ I’m looking to collaborate with my future colleagues :)
 - 📫 How to reach me: iyliahaziq11@gmail.com
 
 <!---
