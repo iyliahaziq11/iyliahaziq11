@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iyliahaziq11, currently a full-time student at General Assembly Singapore (Data Science Immersive)
+- 👋 Hi, I’m @iyliahaziq11, a full-time student at General Assembly Singapore (Data Science Immersive)
 - 👀 I’m interested in learning new skills 
 - 🌱 I’m currently learning python, data science, and random topics of interest (tech, health, science, hunting, sports)
 - 💞️ I’m looking to collaborate with my future colleagues :)
